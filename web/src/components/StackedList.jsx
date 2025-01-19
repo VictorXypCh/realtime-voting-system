@@ -156,6 +156,6 @@ export default function StackedList() {
                 ))}
             </ul>
         </div>
-    </div>
+    </div >
     )
 }
