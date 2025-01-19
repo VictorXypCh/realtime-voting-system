@@ -103,7 +103,7 @@ export default function StackedList() {
 
 
         <div className='w-full text-lg font-bold flex justify-center my-10'>
-            <span>ຜົນການປ່ອນບັດເລືອກຕັ້ງຄະນະພັກກອງບັກຊາການທະຫານແຂວງບໍລິຄຳໄຊ ຊຸດທີ່ VII </span>
+            <span>Vote Title</span>
         </div>
         <div className='my-10 flex justify-center'>
             <ul
